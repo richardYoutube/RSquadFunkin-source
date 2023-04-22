@@ -6,7 +6,7 @@ using StringTools;
 
 class CoolUtil
 {
-	public static var difficultyArray:Array<String> = ['Easy', "Normal", "Hard"];
+	public static var difficultyArray:Array<String> = ['Infinitely Easy', "Extremely Easy", "Very Easy", "Easy"];
 
 	public static var daPixelZoom:Float = 6;
 
